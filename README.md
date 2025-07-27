@@ -53,3 +53,7 @@ The **source code is not public** due to the use of **private API keys and sensi
 ## Author
 
 **Rajdip Das**
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
